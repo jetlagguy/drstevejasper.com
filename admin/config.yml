@@ -1,11 +1,12 @@
 backend:
-  name: git-gateway
+  name: github
   repo: jetlagguy/drstevejasper.com
   branch: master
   api_root: https://api.github.com
   site_domain: location.hostname
   base_url: https://api.netlify.com
   auth_endpoint: auth
+  cms_label_prefix: decap-cms/
 
 collections:
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
