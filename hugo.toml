@@ -51,7 +51,9 @@ url = "mailto:steve@jetlagguy.com.au"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/jasperstephen/"
 
-# youtube
+[[params.ananke_socials]]
+name = "YouTube"
+url = "https://www.youtube.com/@TheJetLagGuy"
 
 # twitter
 
