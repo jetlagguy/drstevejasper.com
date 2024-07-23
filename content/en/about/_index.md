@@ -1,11 +1,9 @@
 ---
-permalink: /about/
-title: "About"
+title: "About Dr Steve"
+weight: 4
 ---
 
-## About Dr Steve Jasper
-
-{% include figure image_path="/assets/images/SJ_Speaking_6.jpg" alt="Image of Dr Steve Jasper presenting a workshop" caption="Dr Steve Jasper" %}
+{{< figure src="SJ_Speaking_6.jpg" alt="Dr Steve Jasper" caption="Dr Steve Jasper" >}}
 
 Dr Steve Jasper is a recognised expert in the field of jet lag and executive performance, and is passionate about transforming the conversation around jet lag. His background was as a pharmacist, where he worked mainly in the hospital system before transferring to the pharmaceutical industry. He worked on several global clinical trials, and while working in a global HIV/AIDS trial he headed up a team with branches in San Francisco, Raleigh (North Carolina, USA), Cambridge (UK), São Paulo and Buenos Aires. He undertook lots of international travel in this role, and experienced firsthand the toll of jet lag.
 

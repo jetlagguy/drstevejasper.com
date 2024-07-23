@@ -5,3 +5,5 @@ Gemfile.lock
 
 .bundle
 vendor/bundle
+public
+.hugo_build.lock
