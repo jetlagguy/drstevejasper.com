@@ -1,5 +1,5 @@
 ---
-title: "Jet Lag Consulting"
+title: "Consulting"
 weight: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "About Dr Steve"
+title: "About"
 weight: 4
 ---
 

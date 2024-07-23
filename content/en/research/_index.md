@@ -1,5 +1,5 @@
 ---
-title: "Jet Lag Research"
+title: "Research"
 weight: 2
 ---
 
