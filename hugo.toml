@@ -40,8 +40,8 @@ enableGitInfo = true
   recent_posts_number = 3
   custom_css = ["tjlg.css"]
   background_color_class = "bg-maroon"
-  body_classes = "helvetica bg-white"
-  post_content_classes = "helvetica"
+  body_classes = "interstate bg-white"
+  post_content_classes = "interstate"
 
 [[params.ananke_socials]]
 name = "e-mail"
