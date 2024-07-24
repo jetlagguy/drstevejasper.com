@@ -20,9 +20,9 @@ title = "Dr Steve Jasper"
 weight = 1
 contentDir = "content/en"
 
-# [permalinks]
-# [permalinks.page]
-# 'blog' = '/blog/:year/:month/:slug/'
+[permalinks]
+[permalinks.page]
+'blog' = '/:year/:month/:slug/'
 
 [sitemap]
 changefreq = "monthly"
@@ -56,6 +56,8 @@ name = "YouTube"
 url = "https://www.youtube.com/@TheJetLagGuy"
 
 # twitter
+
+# tiktok
 
 # instagram?
 
