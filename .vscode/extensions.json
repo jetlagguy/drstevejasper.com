@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "tamasfe.even-better-toml",
+        "naumovs.color-highlight",
+        "editorconfig.editorconfig",
+        "budparr.language-hugo-vscode",
+        "kisstkondoros.vscode-gutter-preview",
+        "davidanson.vscode-markdownlint",
+        "yzhang.markdown-all-in-one",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
