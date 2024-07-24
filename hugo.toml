@@ -43,9 +43,9 @@ background_color_class = "bg-maroon"
 body_classes = "interstate bg-white"
 post_content_classes = "interstate"
 
-[[params.ananke_socials]]
-name = "email"
-url = "mailto:drsteve@jetlagguy.com.au"
+# [[params.ananke_socials]]
+# name = "e-mail"
+# url = "mailto:drsteve@jetlagguy.com.au"
 
 [[params.ananke_socials]]
 name = "linkedin"
