@@ -35,17 +35,17 @@ favicon = ""
 site_logo = ""
 date_format = ":date_full"
 description = "The Jet Lag Guy"
+custom_css = ["tjlg.css"]
 omit_header_text = true
 text_color = "charcoal"              # "charcoal", or "dark-gray"
 recent_posts_number = 3
-custom_css = ["tjlg.css"]
 background_color_class = "bg-maroon"
 body_classes = "interstate bg-white"
 post_content_classes = "interstate"
 
-# [[params.ananke_socials]]
-# name = "e-mail"
-# url = "mailto:steve@jetlagguy.com.au"
+[[params.ananke_socials]]
+name = "email"
+url = "mailto:drsteve@jetlagguy.com.au"
 
 [[params.ananke_socials]]
 name = "LinkedIn"
@@ -55,7 +55,17 @@ url = "https://www.linkedin.com/in/jasperstephen/"
 name = "YouTube"
 url = "https://www.youtube.com/@TheJetLagGuy"
 
-# twitter
+[[params.ananke_socials]]
+name = "Facebook"
+url = "https://www.facebook.com/steve.jasper.965/"
+
+[[params.ananke_socials]]
+name = "Twitter"
+url = "https://twitter.com/DrSteveJasper/"
+
+# [[params.ananke_socials]]
+# name = "X"
+# url = "https://x.com/DrSteveJasper/"
 
 # tiktok
 
