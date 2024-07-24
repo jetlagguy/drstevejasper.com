@@ -1,13 +1,13 @@
 title = 'Dr Steve Jasper'
 baseURL = 'https://drstevejasper.com/'
-languageCode = 'en-us'
+languageCode = 'en-au'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 DefaultContentLanguage = "en"
 contentDir = "content/en"
 SectionPagesMenu = "main"
 Paginate = 9
-googleAnalytics = ""
+# googleAnalytics = ""
 enableRobotsTXT = false
 enableEmoji = true
 cleanDestinationDir = true
@@ -15,37 +15,38 @@ copyright = "Dr Steve Jasper"
 enableGitInfo = true
 
 [languages]
-  [languages.en]
-    title = "Dr Steve Jasper"
-    weight = 1
-    contentDir = "content/en"
+[languages.en]
+title = "Dr Steve Jasper"
+weight = 1
+contentDir = "content/en"
 
-[permalinks]
-  [permalinks.page]
-    'blog' = '/blog/:year/:month/:slug/'
+# [permalinks]
+# [permalinks.page]
+# 'blog' = '/blog/:year/:month/:slug/'
 
 [sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
 
 [params]
-  author = "Dr Steve Jasper"
-  favicon = ""
-  site_logo = ""
-  date_format = ":date_full"
-  description = "The Jet Lag Guy"
-  text_color = ""
-  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  recent_posts_number = 3
-  custom_css = ["tjlg.css"]
-  background_color_class = "bg-maroon"
-  body_classes = "interstate bg-white"
-  post_content_classes = "interstate"
+author = "Dr Steve Jasper"
+favicon = ""
+site_logo = ""
+date_format = ":date_full"
+description = "The Jet Lag Guy"
+omit_header_text = true
+text_color = "dark-gray"        # "charcoal"
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+recent_posts_number = 3
+custom_css = ["tjlg.css"]
+background_color_class = "bg-maroon"
+body_classes = "interstate bg-white"
+post_content_classes = "interstate"
 
-[[params.ananke_socials]]
-name = "e-mail"
-url = "mailto:steve@jetlagguy.com.au"
+# [[params.ananke_socials]]
+# name = "e-mail"
+# url = "mailto:steve@jetlagguy.com.au"
 
 [[params.ananke_socials]]
 name = "LinkedIn"
