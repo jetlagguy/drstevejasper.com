@@ -36,8 +36,7 @@ site_logo = ""
 date_format = ":date_full"
 description = "The Jet Lag Guy"
 omit_header_text = true
-text_color = "dark-gray"        # "charcoal"
-# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+text_color = "charcoal"              # "charcoal", or "dark-gray"
 recent_posts_number = 3
 custom_css = ["tjlg.css"]
 background_color_class = "bg-maroon"
