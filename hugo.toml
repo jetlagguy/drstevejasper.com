@@ -48,19 +48,19 @@ name = "email"
 url = "mailto:drsteve@jetlagguy.com.au"
 
 [[params.ananke_socials]]
-name = "LinkedIn"
+name = "linkedin"
 url = "https://www.linkedin.com/in/jasperstephen/"
 
 [[params.ananke_socials]]
-name = "YouTube"
+name = "youtube"
 url = "https://www.youtube.com/@TheJetLagGuy"
 
 [[params.ananke_socials]]
-name = "Facebook"
+name = "facebook"
 url = "https://www.facebook.com/steve.jasper.965/"
 
 [[params.ananke_socials]]
-name = "Twitter"
+name = "twitter"
 url = "https://twitter.com/DrSteveJasper/"
 
 # [[params.ananke_socials]]
