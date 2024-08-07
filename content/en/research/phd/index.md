@@ -1,7 +1,7 @@
 ---
 title: "PhD in International Management"
-date: 2021-01-01
-draft: true
+date: 2024-08-07
+
 ---
 
-Talk about the PhD here.
+My PhD examined jet lag and executive performance
